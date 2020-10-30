@@ -1,4 +1,4 @@
 # Quizzler ❓
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+![Finished App](https://github.com/UdithaIshan/quizzlerApp/blob/master/quizzler-demo.gif)
 
